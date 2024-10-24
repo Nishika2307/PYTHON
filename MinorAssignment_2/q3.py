@@ -9,6 +9,14 @@ elif(marks>=70 and marks<=79):
 elif(marks>=60 and marks<=69):
     print(f"Needs Improvement \nGrade is D for marks={marks}")
 else:
-    print(f"Failing \nGrade is F for marks={marks}")                
+    print(f"Failing \nGrade is F for marks={marks}")        
+    
+    
+'''
+OUTPUT
+Enter marks : 79
+Average 
+Grade is C for marks=79
+'''           
     
         
