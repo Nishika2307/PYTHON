@@ -21,5 +21,7 @@ print("Sum : ",sum)
 
 '''
 o/p
-
+enter the limit of the series:3
+enter the value of x:1
+Sum :  0.5402777777777777
 '''

@@ -8,3 +8,8 @@ for i in range(0,n):
 
 
 print("Sum : ",sum)
+
+'''
+enter the Limit : 3
+Sum :  3
+'''

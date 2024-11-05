@@ -17,5 +17,7 @@ print("Sum : ",sum)
 
 '''
 o/p
-
+enter the limit of the series:4
+enter the value of x:2
+Sum :  6.333333333333333
 '''
