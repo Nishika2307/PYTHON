@@ -10,8 +10,6 @@ def dec_bin(n,c):
     #(a%2,end="")
 
 
-    
-
 def bin_dec(n,c):
    if(n==0):
     return 0
@@ -19,3 +17,8 @@ def bin_dec(n,c):
 
 print(f"Decimal to Binary ",dec_bin(6,0))
 print("Binary to Decimal ",bin_dec(110,0))
+
+'''
+Decimal to Binary  110
+Binary to Decimal  6
+'''

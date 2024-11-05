@@ -18,3 +18,12 @@ if(n==armstrong(n,count(n))):
   print("yes armstrong:",n)
 else:
   print("not armstrong:",n)
+  
+'''
+o/p
+Enter a number : 153
+yes armstrong: 153
+Enter a number : 123
+not armstrong: 123
+'''
+  
