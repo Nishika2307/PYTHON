@@ -21,3 +21,8 @@ while(n!=0):
         pass
     n=n//10
 print("max:",max,"Second max:",Smax,"Third max:",Tmax)
+
+'''
+Enter a number : 456
+max: 6 Second max: 5 Third max: 4
+'''
