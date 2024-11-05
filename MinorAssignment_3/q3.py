@@ -9,4 +9,6 @@ for i in range(2,51,2):
     total+=squares(i)
 print("Squares of even numbers :" ,total)
     
-        
+'''
+Squares of even numbers : 22100
+'''

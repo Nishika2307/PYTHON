@@ -16,7 +16,7 @@ print(f"String after reversing : {rev}")
 o/p
 Enter a string: nishi
 String after reversing : ihsin
-'''        
+'''
 
         
         
