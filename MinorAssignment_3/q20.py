@@ -16,6 +16,7 @@ a=int(input("enter start limit : "))
 b=int(input("enter end limit : "))
 printPrime(a,b)
 
+
 '''
 enter start limit : 1
 enter end limit : 100
