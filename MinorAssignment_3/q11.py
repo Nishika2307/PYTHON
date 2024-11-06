@@ -2,7 +2,6 @@
 Create a function that determines whether a string can be rearranged to form a palindrome.
 '''
 from collections import Counter
-
 def can_rearrange_to_palindrome(s):
     # Count frequency of each character in the string
     freq = Counter(s)
