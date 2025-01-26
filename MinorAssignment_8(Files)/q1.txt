@@ -1,0 +1,8 @@
+''''
+Feature   	          read()	                                            readlines()
+Purpose:	 Reads the entire file or a specified number of characters.	  Reads all lines from the file as a list of strings.
+Return Type:	String	                                                      List of strings (lines).
+Includes Newlines:	No, unless the file ends with a newline.	 Yes, each line ends with a newline character \n.
+Use Case:	When you need the whole content as one string.	     When you need to process the file line by line or count lines.
+Memory Efficiency:	Can be less memory-efficient for large  	Slightly more memory-efficient when you need to process lines separately.
+                   files since it reads everything at once.
